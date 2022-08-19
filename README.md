@@ -21,8 +21,8 @@
 - `pip install lolcat`
 - `pip install bs4`
 - `rm -rf File-Clone`
-- `git clone https://github.com/AKING110/File-Clone.git`
-- `cd File-Clone`
+- `git clone https://github.com/bhanja-dadri/AKING`
+- `cd AKING
 - `python AKING.py`
      
 
